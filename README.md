@@ -1,0 +1,1 @@
+This  project  was  implemented  using  R.  This  work  exploits  the  data  fusion  property  of  theKalman  filter  to  combine  individual  multi-class  component  classifier  models  to  construct  anensemble.Thus resulting in better classification accuracy compared to other ensemble learningmethods.
